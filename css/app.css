@@ -19,6 +19,14 @@ body {
   text-align: center;
 }
 
+.container-footer{
+  width: 85%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
 .bg-none {
   background: rgba(0, 0, 0, 0.5)
 }
